@@ -7,7 +7,7 @@ SITENAME = u'HTStudios'
 SITEURL = ''
 
 PATH = 'content'
-THEME= '../elegant'
+THEME= 'elegant'
 
 TIMEZONE = 'Asia/Hong_Kong'
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'comments', 'search', '404'))
